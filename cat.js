@@ -1,4 +1,5 @@
 function Cat(){
+<<<<<<< HEAD
 	this.stomach = [];
 }
 
@@ -7,3 +8,7 @@ cat.prototype.eat = function(mouse){
 }
 
 module.exports = Cat;
+=======
+	
+}
+>>>>>>> parent of 3782308... add stomach method
